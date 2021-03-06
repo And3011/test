@@ -1,0 +1,8 @@
+The greatest factorial calculator! Es una APP la cual realiza el calculo del factorial de un numero entero
+para accesar a la misma favor seguir los siguentes pasos: 
+
+	1 - Abrir navegador de preferencia "Validar que tiene conectividad para navegar".
+	2 - Ingrese a la siguiente direccion "The greatest factorial calculator!" y presione ENTER.
+	3 - En la caja de texto, donde admite escritura, digite un numero entero 1,2,3... "No fraccion 1.3, no letras, no numeros negativos".
+	4 - Validar el resultado arrojado.
+
